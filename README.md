@@ -48,8 +48,6 @@ Android chat application developed with Java and Firebase. A hassle-free way to 
 * Note: Download the google-services.json file after the Firebase services are set up to automatically include the services in the json file.
 * Note: When updating the google-services.json file then make sure to invalidate the caches as well as doing a clean + rebuild.
 
-### Full demo : 
-<div align="center">
-  <a href="https://youtu.be/U-NWcV_tfd4"><img src="https://user-images.githubusercontent.com/79650580/147914116-8f3725ef-8206-47b1-8735-f562ce3088f2.png" alt="Click here to watch full demo"></a>
-</div>
+
+
 # chatzy-chat-app
